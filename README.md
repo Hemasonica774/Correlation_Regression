@@ -23,8 +23,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ```
 
-Developed By:S.Prema Latha
-Register No:212222230112
+Developed By: Hemasonica.P
+Register No:212222230048
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -60,7 +60,7 @@ plt.legend(['Regression Line','Data points'])![image](https://github.com/ramjan1
 
 ```
 
-# Output
+# Output :
 ![image](https://github.com/Hemasonica774/Correlation_Regression/assets/118361409/1f8fc2d4-5e50-4efe-88e1-d143b615bb9f)
 
 # Result:
